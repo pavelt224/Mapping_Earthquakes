@@ -1,5 +1,5 @@
 // API key
-const API_KEY = "pk.eyJ1IjoicGF2ZWwyMjQiLCJhIjoiY2t6ZzhnOWVlM2gwZjJ4cHJlOHhoMGYxayJ9.K49LnMjB1hATQ8YtP7yvHA";
+const API_KEY = "pk.eyJ1IjoicGF2ZWwyMjQiLCJhIjoiY2t6cWV2azZ1MnZ5ODJvczhpa2d3bnBzbCJ9.z7ScyDd5Mfz3oskOj3-gZw";
 
 // Add GeoJSON data.
 let sanFranAirport =
