@@ -8,6 +8,14 @@ __pycache__/
 
 # Hidding API key
 static/js/config.js
+Mapping_Lines/static/js/config.js
+Mapping_Multiple_Points/static/js/config.js
+Mapping_Single_Points/static/js/config.js
+Mapping_GeoJSON_Points/static/js/config.js
+Mapping_GeoJSON_Linestrings/static/js/config.js
+Mapping_GeoJSON_Polygons/static/js/config.js
+Earthquakes_past7days/static/js/config.js
+Earthquakes_Challenge/static/js/config.js
 
 # Distribution / packaging
 .Python
