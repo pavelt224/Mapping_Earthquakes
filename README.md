@@ -7,7 +7,7 @@ Project Deliverables:
 - Deliverable 2: Add Major Earthquake Data
 - Deliverable 3: Add an Additional Map
 
-
+ Final Map
 ![Deliverable3](https://user-images.githubusercontent.com/93852380/154780850-71ce39ab-4748-427e-9759-7181fcb9a6e2.png)
 
 
